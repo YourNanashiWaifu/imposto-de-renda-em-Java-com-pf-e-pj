@@ -17,6 +17,6 @@ Acima de R$ 2.000,00 = 20%
 Crie uma interface com método para calcular o valor do imposto a ser pago por cada contribuinte e imprimir na tela. 
 Na classe Main, instancie todos os objetos e chame todos os métodos para testar.
 
-.......................................................................................................................
-Feito em 10/06/2021 utilizando a IDE IntelliJ
-.......................................................................................................................
+
+=====Feito em 10/06/2021 utilizando a IDE IntelliJ=====
+
