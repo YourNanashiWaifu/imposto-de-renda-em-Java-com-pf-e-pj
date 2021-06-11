@@ -4,6 +4,8 @@ Calculadora feita em Java (POO)
 Atividade feita para a avaliação final da disciplina de Desenvolvimento de Sistemas I pelo Técnico em Desenvolvimento de Sistemas do SENAI/BA
 
 =====Atividade em texto=====
+
+
 Você foi convidado a desenvolver um sistema para calcular o Imposto de Renda dos  contribuintes, que podem ser pessoas físicas ou pessoas jurídicas. Todos os contribuintes  devem possuir (nome, idade e renda bruta). Pessoas físicas além dos atributos do contribuinte, possui cpf e Pessoas Jurídicas possuem CNPJ. 
 Todos os contribuintes devem possuir um método status para imprimir seus  dados.
 O cálculo do IR deve ser feito da seguinte maneira: 
